@@ -1,0 +1,77 @@
+{
+	"me" : {
+      "picture" : "ma_photo.png",
+      "firstname" : "Théo",
+      "lastname" : "Donzelle",
+      "age" : "21 ans",
+      "address" : {
+        "street" : " 7 rue du Lurin",
+        "city" : "St Germain au Mont d'Or - 69650",
+        "country" : "France"
+      },
+      "mail" : "theo.donzelle@gmail.com",
+      "tel" : "06 68 64 54 69"
+  },
+	"formation": [
+		{
+			"period" : "2012",
+			"place" : "Lycée Rosa Parks - Neuville sur Saône (Rhône Alpes - France)",
+			"name" : "Baccalaureat Scientifique en Science de l'Ingénieur option Mathématique"
+		},
+		{
+			"period" : "2012 - 1014",
+			"place" : "Polytech Chambéry (Savoie - France)",
+			"name" : "Parcours des écoles d'ingénieurs Polytech (École préparatoire)"
+		},
+		{
+			"period" : "2014 - Aujourd'hui",
+			"place" : "Polytech Nice-Sophia (Alpes Maritimes - France)",
+			"name" : "Formation d'Ingenieur en Sciences Informatiques"
+		}
+	],
+	"job" : [
+		{
+			"period" : "1 semaine en 2009",
+			"place" : "Square (Agence de production graphique) - Lyon (Rhône Alpes - France)",
+			"name" : "Stage d'observation"
+		},
+		{
+			"period" : "2 semaines en 2012",
+			"place" : "Square (Agence de production graphique) - Lyon (Rhône Alpes - France)",
+			"name" : "Manutention"
+		},
+		{
+			"period" : "4 semaines en 2013",
+			"place" : "Cummins (Constructeur de moteurs) - Lyon (Rhône Alpes - France)",
+			"name" : "Stage ouvrier"
+		},
+		{
+			"period" : "4 semaines en 2014",
+			"place" : "Cummins (Constructeur de moteurs) - Lyon (Rhône Alpes - France)",
+			"name" : "Manutention"
+		}
+	],
+	"linguisticTravel" : [
+		{
+			"place" : "Italie",
+			"name" : "Deux voyages linguistiques d'une semaine"
+		},
+		{
+			"place" : "Londres (Angleterre)",
+			"name" : "Un voyage linguistique d'une semaine"
+		}
+	],
+	"leisureTravel" : [ "Ukraine", "Italie", "Croatie", "Irlande", "Etats-Unis (Californie)", "Espagne", "Portugal", "Norvège", "Turquie"],
+	"hobby" :
+		{
+			"music" : ["guitare", "batterie"],
+			"sport" : ["ski", "gymnastique", "tennis", "football", "rugby"]
+		},
+	"project" : [
+		{
+			"period" : "2011",
+			"place" : "Lycée Rosa Parks - Neuville sur Saône (Rhône Alpes - France)",
+			"name" : "Participation à un projet en partenariat avec les CNES, au lycée, qui avait pour but de réaliser des expériences dans un avion exécutant un vol parabolique pour simuler l’apesanteur"
+		}
+	]
+}
